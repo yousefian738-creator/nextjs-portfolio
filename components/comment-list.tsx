@@ -1,5 +1,4 @@
-import { Comment } from "@/lib/generated/prisma/client";
-import { Card, CardContent } from "./ui/card";
+import { Comment as CommentType } from "@/lib/generated/prisma/client";import { Card, CardContent } from "./ui/card";
 import { Avatar, AvatarFallback } from "@radix-ui/react-avatar";
 import { AvatarImage } from "./ui/avatar";
 
